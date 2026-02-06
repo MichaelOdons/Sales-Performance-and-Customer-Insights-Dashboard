@@ -214,3 +214,9 @@ This dashboard primarily describes patterns and trends. We haven’t explored pr
 
 ### Reference
 - SQL - The Complete Reference
+
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Python|SQL|
+|Excel|Tableau|
